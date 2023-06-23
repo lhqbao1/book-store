@@ -1,0 +1,33 @@
+.button-column {
+    // margin-right: -250px;
+
+
+
+    .delete-tag {
+        width: 80px;
+        text-align: center;
+        padding: 7px;
+        cursor: pointer;
+    }
+
+    .edit-tag {
+        width: 80px;
+        text-align: center;
+        padding: 7px;
+        cursor: pointer;
+
+    }
+
+}
+
+.drawer-button {
+    background-color: transparent;
+    border: none;
+    color: #1677FF;
+
+
+}
+
+.drawer-button:hover {
+    color: gray;
+}
